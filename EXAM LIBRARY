@@ -1,0 +1,21 @@
+1. INTRODUCTION:
+   a.PURPOSE: The purpose of this website is to view the requied author bookthrough a webiste instaed going to the library 
+   b.SOCPE: For easy use for people
+   c.OVERVIEW
+2.GENERAL DESCRIPTION:
+  a.USER MANUAL:
+      This is useful to check the information of the lists of books,contents,name of authors whoes books are availble.
+
+3. FUNDAMENTAL REQUIREMENTS:
+  a.SOFTWARE REQUIREMENTS: The website should look attractive and must not occur any errors,design,user interface.
+  b.HARDWARE REQUIREMETS: It can be used by phone or PC,internet,admin.
+
+4.INTERFACE REQUIREMENT:
+  A.GUI: Grraphical user interface- The software must contain attractive login page
+5.PERFORMS REQUIREMENT:
+  The performance of the software must be faster for better use
+6.RESIGN CONSTRAINTS:
+    The outlook,frontend and backend look must be perfect
+7.NON FUNCTIONAL ATTRIBUTES:
+  a.AVAILABILITY: The software must available for everyone
+  b.MAINTAINABILITY: The maintence of software must be accurate
